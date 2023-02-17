@@ -14,5 +14,5 @@ func isValid(s string) bool {
             return false
         }
     }
-    return len(sl) == 0
+    return true
 }
